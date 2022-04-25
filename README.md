@@ -1,1 +1,2 @@
-# SSE_MSc
+# SSE MSc
+* For Projects at SSE
